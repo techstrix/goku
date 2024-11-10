@@ -1,0 +1,11 @@
+{
+  "tokenColors": [
+    {
+      "scope": "entity.name.task.gok",
+      "settings": {
+        "foreground": "#1616db",
+        "fontStyle": "bold"
+      }
+    }
+  ]
+}

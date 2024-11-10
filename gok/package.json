@@ -1,0 +1,50 @@
+{
+  "name": "gok",
+  "displayName": "goku-doc",
+  "description": "It is a support pack for the gok file format",
+  "version": "0.0.1",
+  "publisher": "KimaniJohn",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "gok",
+        "aliases": [
+          "gok",
+          "gok"
+        ],
+        "extensions": [
+          ".gok"
+        ],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "gok",
+        "scopeName": "source.gok",
+        "path": "./syntaxes/gok.tmLanguage.json"
+      }
+    ],
+    "themes": [
+      {
+        "label": "Custom Gok Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gok-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "gok-file-icons",
+        "label": "Gok File Icons",
+        "path": "./icon-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/goku.png"
+}

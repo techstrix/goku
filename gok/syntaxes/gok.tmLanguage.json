@@ -1,0 +1,26 @@
+{
+  "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+  "name": "gok",
+  "patterns": [
+    {
+      "include": "#keywords"
+    },
+    {
+      "include": "#strings"
+    },
+    {
+      "include": "#tasks"
+    }
+  ],
+  "repository": {
+    "tasks": {
+      "patterns": [
+        {
+          "name": "entity.name.task.gok",
+          "match": "\\bTASK\\s+\\d+\\b"
+        }
+      ]
+    }
+  },
+  "scopeName": "source.gok"
+}

@@ -1,0 +1,13 @@
+{
+  "iconDefinitions": {
+    "gok-file-icon": {
+      "iconPath": "./icons/goku.png"
+    }
+  },
+  "fileExtensions": {
+    "gok": "gok-file-icon"
+  },
+  "fileNames": {},
+  "folderNames": {},
+  "languageIds": {}
+}
