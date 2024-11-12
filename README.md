@@ -7,7 +7,8 @@ all you have to do is type goku on your terminal in your current directory.(The 
 #### Installation
 Make sure you have python installed on your system.Just google python install and download from the python website.
 Download the code using the code button and extract the zip. You can use git if you want to. Simply run python pth.py and thats it. You now have goku installed on your system.
-Python pth.py is run on your command line in the directory where you donwloaded your code.
+Python pth.py is run on your command line in the directory where you donwloaded your code.  
+
 `python pth.py`
 
 
