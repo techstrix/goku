@@ -54,5 +54,7 @@ TASK 2
 Enter a number1
 Num *10 is 10
 ``` 
-
-
+Please note the **TASK 1** and **TASK 2** these are special and have to be there. Make sure the output for all tasks is given. So if there are five tasks there should be task 1 to task 5.
+Its easy when you get output just add it to the gok file. This workflow will greatly save you time. 
+And to create a submission file(submission.docx) having followed the above format simply type into your terminal:
+> goku
