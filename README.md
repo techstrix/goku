@@ -1,7 +1,5 @@
 # Tool to automate word document creation
-Yes I know its stupid but you dont know the pain of copy pasting six different tasks from c files to word and then word starts acting up😭😭😭😭😭😭
-If it helps you ok if it doesnt???Spotted an unhandled exception???? Make a pull request and stop yapping
-
+Yes I know its stupid but you dont know the pain of copy pasting six different tasks from c files to word and then word starts acting up😭😭😭😭😭😭. **NOT FOR EVERYONE**
 Are you a uon comp science student sick of copy pasting all your code into a word document one by one?? Then goku is for you. You just get the tool and once installed on your system
 all you have to do is type goku on your terminal in your current directory.(The one with the tasks e.g. Task1.c,Task2.c,Task3.c). Make sure that when you run goku you have an **output.gok** file in your editor. The output.gok file contains  all the output from your code. So after running your code just copy the output and paste it into the output.gok file.
 Example of use 
@@ -57,4 +55,6 @@ Num *10 is 10
 Please note the **TASK 1** and **TASK 2** these are special and have to be there. Make sure the output for all tasks is given. So if there are five tasks there should be task 1 to task 5.
 Its easy when you get output just add it to the gok file. This workflow will greatly save you time. 
 And to create a submission file(submission.docx) having followed the above format simply type into your terminal:
-> goku
+`goku`
+Enter your name and reg no and your all set.
+The submission.docx is created in your current working directory.
