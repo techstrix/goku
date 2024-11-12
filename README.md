@@ -2,11 +2,18 @@
 Yes I know its stupid but you dont know the pain of copy pasting six different tasks from c files to word and then word starts acting up😭😭😭😭😭😭. **NOT FOR EVERYONE**
 Are you a uon comp science student sick of copy pasting all your code into a word document one by one?? Then goku is for you. You just get the tool and once installed on your system
 all you have to do is type goku on your terminal in your current directory.(The one with the tasks e.g. Task1.c,Task2.c,Task3.c). Make sure that when you run goku you have an **output.gok** file in your editor. The output.gok file contains  all the output from your code. So after running your code just copy the output and paste it into the output.gok file.
+
+
 Installation
 Make sure you have python installed on your system.Just google python install and download from the python website.
 Download the code using the code button and extract the zip. You can use git if you want to. Simply run python pth.py and thats it. You now have goku installed on your system.
 Python pth.py is run on your command line in the directory where you donwloaded your code.
 `python pth.py`
+
+
+
+
+
 Example of use 
 ```
   task1.c
