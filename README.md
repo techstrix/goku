@@ -5,7 +5,8 @@ If it helps you ok if it doesnt???Spotted an unhandled exception???? Make a pull
 Are you a uon comp science student sick of copy pasting all your code into a word document one by one?? Then goku is for you. You just get the tool and once installed on your system
 all you have to do is type goku on your terminal in your current directory.(The one with the tasks e.g. Task1.c,Task2.c,Task3.c). Make sure that when you run goku you have an **output.gok** file in your editor. The output.gok file contains  all the output from your code. So after running your code just copy the output and paste it into the output.gok file.
 Example of use 
-`main.c
+```
+  task1.c
   #include <stdio.h>
 
 int main(){
@@ -27,6 +28,31 @@ int main(){
     printf("You entered: %d, %d, and %d", number1, number2, number3);
     return 0;
 } 
-` 
+```
+```
+task2.c
+#include <stdio.h>
+
+int main(){
+    printf("Enter a number");
+    int num;
+    scanf("%d",&num);
+    printf("Num *10 is %d",num*10);
+    
+    return 0;
+}
+```
+
+```
+output.gok
+TASK 1
+Enter the first number: 12
+Enter the second number: 12
+Enter the third number: 12
+You entered: 12, 12, and 12
+TASK 2
+Enter a number1
+Num *10 is 10
+``` 
 
 
